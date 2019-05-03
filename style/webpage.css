@@ -23,11 +23,12 @@ table, th, td {
     border: 3px solid black;
     border-collapse: collapse;
 }
-body{
+
+ body{
     background-image: url(a.jpeg);
     background-size: cover;
     background-position: center;
-    width: 100%
+    width: 100%;
 }
 
 

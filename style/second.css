@@ -13,4 +13,9 @@ table, th, td {
     float: right;
     margin: 1em
 }
+.phoziswa img, h1{
+    float: left;
+    color: black;
+}
+
 
