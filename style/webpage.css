@@ -25,7 +25,7 @@ table, th, td {
 }
 
  body{
-    background-image: url(a.jpeg);
+    background-image: url('../media/a.jpeg');
     background-size: cover;
     background-position: center;
     width: 100%;

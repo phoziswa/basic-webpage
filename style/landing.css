@@ -1,5 +1,5 @@
 body{
-    background-image: url('z.jpg');
+    background-image: url('../media/z.jpg');
     background-size: cover;
     background-position: center;
     width: 100%
